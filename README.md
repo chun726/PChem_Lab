@@ -1,2 +1,2 @@
 # PChem_Lab
-Physical chemistry lab - 20223 spring
+Physical chemistry lab - 2023 spring
