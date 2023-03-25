@@ -12,7 +12,7 @@ count = 0
 x_value = [0]
 y_value = []
 cyclic = int(input("Choose if your molecule is cyclic(0 = linear, 1 = cyclic): "))
-carbon = int(input("Enter the number of carbon in your molecule: "))
+carbon = int(input("Enter the number of carbon in your molecule(: "))
 hydrogen = carbon
 
 if cyclic == 0:
